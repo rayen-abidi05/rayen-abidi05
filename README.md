@@ -36,5 +36,3 @@ Computer Science student 💻 | Full-Stack Web Developer 🌐 | Passionate about
 <strong>Concepts:</strong> REST APIs • Authentication Systems <br>
 <strong>Tools:</strong> XAMPP • Git
 </p>
-
-
