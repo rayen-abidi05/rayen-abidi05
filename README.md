@@ -9,7 +9,7 @@ Computer Science student 💻 | Full-Stack Web Developer 🌐 | Passionate about
 <img src="https://img.shields.io/badge/-Rayen%20Abidi-0077B5?style=flat-square&logo=LinkedIn" alt="LinkedIn Badge">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/rayen-abidi05">
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github" alt="GitHub Badge">
 </a>
 </p>
