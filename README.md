@@ -1,8 +1,8 @@
 <h2>Hey 👋, I'm <a href="#">Abidi Rayen</a></h2>
 
 <p>
-I'm a <strong>Computer Science student</strong> 💻 and a passionate <strong>Web Developer</strong> 🌐 based in Tunisia 🇹🇳.  
-I enjoy building modern web applications, learning new technologies, and improving my development skills every day 🚀.
+I'm a <strong>Computer Science student</strong> 💻 and a passionate <strong>Full-Stack Web Developer</strong> 🌐 based in Tunisia 🇹🇳.  
+I build modern, scalable web applications and I also have a creative side as a <strong>Video Editor</strong> 🎬.
 </p>
 
 <p>
@@ -15,29 +15,51 @@ I enjoy building modern web applications, learning new technologies, and improvi
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🎓 I’m currently studying <strong>Computer Science</strong>.</li>
-<li>💻 I’m focused on <strong>Web Development</strong> (Frontend & Backend).</li>
-<li>🧐 Learning more about <strong>APIs, backend systems, and modern frameworks</strong>.</li>
-<li>👨‍💻 Check out my projects on <a href="#">GitHub</a>.</li>
-<li>💬 Ask me about <strong>JavaScript, React, Spring Boot, and Web Development</strong>.</li>
-<li>🚀 Goal: Become a skilled <strong>Software Engineer</strong>.</li>
+<li>🎓 Computer Science student with strong technical foundation.</li>
+<li>💻 Full-Stack developer using <strong>Django, React, and JEE</strong>.</li>
+<li>🔐 Experience with <strong>authentication systems (JWT, Sessions, Cookies)</strong>.</li>
+<li>🗄️ Databases: <strong>MySQL & Oracle</strong>.</li>
+<li>⚙️ Backend & tools: <strong>XAMPP, REST APIs</strong>.</li>
+<li>🧠 Interested in <strong>Image Processing & Multimedia</strong>.</li>
+<li>🎬 Video Editor using <strong>Premiere Pro, After Effects & Photoshop</strong>.</li>
+<li>🚀 Goal: Become a professional <strong>Software Engineer</strong>.</li>
 </ul>
 
-<h2>🚀 Technologies & Tools</h2>
+<h2>🚀 Tech Stack</h2>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="25" height="25"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" height="25"/>
+<h3>💻 Programming Languages</h3>
+<p>
+C • Java • JavaScript
+</p>
+
+<h3>🌐 Web Development</h3>
+<p>
+HTML • CSS • Tailwind CSS • React • Django • JEE
+</p>
+
+<h3>🗄️ Databases</h3>
+<p>
+MySQL • Oracle
+</p>
+
+<h3>🔐 Backend & Concepts</h3>
+<p>
+JWT • Sessions • Cookies • REST APIs • Authentication Systems
+</p>
+
+<h3>⚙️ Tools & Environment</h3>
+<p>
+XAMPP • Git • Linux (optional if you use it)
+</p>
+
+<h3>🧠 Specialized Fields</h3>
+<p>
+Image Processing • Multimedia • Indexation
+</p>
+
+<h3>🎬 Creative Tools</h3>
+<p>
+Adobe Premiere Pro • After Effects • Photoshop
 </p>
 
 <h2>📊 GitHub Stats</h2>
