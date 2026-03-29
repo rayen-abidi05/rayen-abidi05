@@ -37,12 +37,4 @@ Computer Science student 💻 | Full-Stack Web Developer 🌐 | Passionate about
 <strong>Tools:</strong> XAMPP • Git
 </p>
 
-<h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true" />
-
-<p>
-<a href="https://hits.dwyl.com/YOUR_USERNAME/YOUR_USERNAME.svg">
-<img src="https://hits.dwyl.com/YOUR_USERNAME/YOUR_USERNAME.svg?style=flat-square" alt="HitCount">
-</a>
-</p>
