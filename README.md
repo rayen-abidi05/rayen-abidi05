@@ -37,4 +37,4 @@ Computer Science student 💻 | Full-Stack Web Developer 🌐 | Passionate about
 <strong>Tools:</strong> XAMPP • Git
 </p>
 <h2>🚀 My projects</h2>
-<span>link :    </span><a href="https://portfolio-seven-eta-iosr9tfhdi.vercel.app/"></a>
+<span>link :    </span><a href="https://portfolio-seven-eta-iosr9tfhdi.vercel.app/">https://portfolio-seven-eta-iosr9tfhdi.vercel.app/</a>
