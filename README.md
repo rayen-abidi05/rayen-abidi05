@@ -19,7 +19,7 @@ Computer Science student 💻 | Full-Stack Web Developer 🌐 | Passionate about
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🎓 Computer Science student.</li>
-<li>💻 Full-Stack Developer using <strong>Django, React, and JEE</strong>.</li>
+<li>💻 Full-Stack Developer using <strong>Django, React, Express , Next , Angular and JEE</strong>.</li>
 <li>🔐 Skilled in <strong>JWT, Sessions, Cookies</strong>.</li>
 <li>🗄️ Databases: <strong>MySQL & Oracle</strong>.</li>
 <li>🧠 Knowledge in <strong>Information Retrieval & Indexing Models</strong> (Extraction, Tokenization, Normalization, TF-IDF, Inverted Index).</li>
