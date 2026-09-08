@@ -34,7 +34,7 @@
 <li>🐳 Using <strong>Docker</strong> for containerization and reproducible development environments.</li>
 <li>📡 Building and consuming <strong>REST APIs</strong> with modern frontend data-management tools.</li>
 <li>🚀 Interested in software architecture, scalable systems and backend engineering.</li>
-<li>🎯 Currently looking for a <strong>PFE internship</strong> and future <strong>alternance opportunities in France</strong>.</li>
+<li>🎯 Currently looking for a <strong>PFE internship</strong> and future <strong>alternance</strong>.</li>
 </ul>
 
 ---
