@@ -90,27 +90,22 @@
 
 ---
 
-<h2>🚀 What I've Built</h2>
+<h2>🚀 Projects</h2>
 
 <p>
-I enjoy turning real-world problems into complete, production-oriented web applications.
+I've built several full-stack applications around real-world problems — from complex administrative workflows to personal content management.
 </p>
 
 <p>
-From a platform that digitizes complex administrative export workflows 🫒
-to a recipe and nutrition platform built around personal content management 🍴,
-each project challenged me to design, build and connect multiple layers of a modern application.
-</p>
-
-<p>
-🔎 <strong>Want to see how they work?</strong>
+Some of them started as academic projects. Others became opportunities to explore production-oriented architecture, authentication, role-based systems, APIs, databases and deployment.
 </p>
 
 <p>
 <a href="https://portfolio-seven-eta-iosr9tfhdi.vercel.app/">
-<strong>→ Explore my portfolio and discover the projects</strong>
+<strong>→ See what I've been building</strong>
 </a>
 </p>
+
 
 
 ---
