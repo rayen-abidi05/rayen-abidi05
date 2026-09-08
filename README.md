@@ -28,7 +28,7 @@
 <li>🎓 Currently studying <strong>Software Engineering & Computer Science</strong>.</li>
 <li>💻 Full-Stack Developer focused on building modern web applications.</li>
 <li>⚛️ Frontend development with <strong>Next.js, React, TypeScript and Tailwind CSS</strong>.</li>
-<li>⚙️ Backend development with <strong>Node.js, Express.js and Django</strong>.</li>
+<li>⚙️ Backend development with <strong>Node.js and Express.js</strong>.</li>
 <li>🗄️ Experienced with <strong>PostgreSQL, MySQL and Prisma ORM</strong>.</li>
 <li>🔐 Building secure applications using <strong>JWT, HTTP-only cookies, authentication and role-based authorization</strong>.</li>
 <li>🐳 Using <strong>Docker</strong> for containerization and reproducible development environments.</li>
@@ -67,7 +67,7 @@
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+
 <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square">
 </p>
 
