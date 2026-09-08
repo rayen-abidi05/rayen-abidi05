@@ -90,52 +90,28 @@
 
 ---
 
-<h2>🚀 Featured Projects</h2>
-
-<h3>🫒 Olex-TN — Olive Oil Export Management Platform</h3>
+<h2>🚀 What I've Built</h2>
 
 <p>
-A full-stack platform designed to digitize and manage administrative procedures related to agricultural product exports.
+I enjoy turning real-world problems into complete, production-oriented web applications.
 </p>
-
-<ul>
-<li>🔐 Authentication and role-based authorization</li>
-<li>📋 Export request and document management</li>
-<li>🏛️ Multi-role workflows for administrators, exporters, ministers and inspection teams</li>
-<li>🔔 Notification system</li>
-<li>📊 Management dashboards</li>
-<li>🐳 Dockerized deployment environment</li>
-</ul>
 
 <p>
-<strong>Stack:</strong> Next.js • TypeScript • Node.js • Express • PostgreSQL • Prisma • Docker
+From a platform that digitizes complex administrative export workflows 🫒
+to a recipe and nutrition platform built around personal content management 🍴,
+each project challenged me to design, build and connect multiple layers of a modern application.
 </p>
-
-<h3>🍴 FOODY — Recipe & Nutrition Platform</h3>
 
 <p>
-A full-stack recipe platform combining healthy and popular dishes with nutritional information and personal recipe management.
+🔎 <strong>Want to see how they work?</strong>
 </p>
-
-<ul>
-<li>🥗 Healthy and popular recipe categories</li>
-<li>📊 Nutritional information and macronutrients</li>
-<li>🔐 Authentication and protected user space</li>
-<li>🍳 Personal recipe management through MyKitchen</li>
-<li>🛠️ Admin recipe management</li>
-</ul>
-
-<p>
-<strong>Stack:</strong> Next.js • React • Node.js • Tailwind CSS
-</p>
-
-<br>
 
 <p>
 <a href="https://portfolio-seven-eta-iosr9tfhdi.vercel.app/">
-<strong>→ Explore my portfolio and projects</strong>
+<strong>→ Explore my portfolio and discover the projects</strong>
 </a>
 </p>
+
 
 ---
 
