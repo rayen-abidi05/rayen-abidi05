@@ -101,7 +101,7 @@ Some of them started as academic projects. Others became opportunities to explor
 </p>
 
 <p>
-<a href="https://portfolio-seven-eta-iosr9tfhdi.vercel.app/">
+<a href="">
 <strong>→ See what I've been building</strong>
 </a>
 </p>
@@ -133,7 +133,7 @@ I'm open to discussing software engineering, full-stack development, interesting
 <strong>LinkedIn</strong>
 </a>
 &nbsp; • &nbsp;
-<a href="https://portfolio-seven-eta-iosr9tfhdi.vercel.app/">
+<a href="https://main-portfolio-kb07mbqb8-rayen-abidi05s-projects.vercel.app/">
 <strong>Portfolio</strong>
 </a>
 </p>
