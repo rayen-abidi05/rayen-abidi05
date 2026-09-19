@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=flat-square&logo=vercel" alt="Portfolio Badge">
 </a>
 </p>
-
+https://main-portfolio-blue-alpha.vercel.app/
 ---
 
 <h2>⚡ About Me</h2>
@@ -101,7 +101,7 @@ Some of them started as academic projects. Others became opportunities to explor
 </p>
 
 <p>
-<a href="">
+<a href="https://main-portfolio-blue-alpha.vercel.app/">
 <strong>→ See what I've been building</strong>
 </a>
 </p>
