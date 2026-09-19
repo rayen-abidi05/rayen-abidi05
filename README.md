@@ -19,8 +19,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=flat-square&logo=vercel" alt="Portfolio Badge">
 </a>
 </p>
-https://main-portfolio-blue-alpha.vercel.app/
----
+
 
 <h2>⚡ About Me</h2>
 
