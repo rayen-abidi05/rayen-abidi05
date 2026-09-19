@@ -3,37 +3,33 @@
 <p>
 🎓 Software Engineering & Computer Science Student &nbsp;|&nbsp;
 💻 Full-Stack Developer &nbsp;|&nbsp;
-🚀 Building modern, secure and scalable web applications
+🚀 Building modern web applications
 </p>
 
 <p>
 <a href="https://www.linkedin.com/in/rayen-abidi-9610913bb">
-<img src="https://img.shields.io/badge/LinkedIn-Rayen%20Abidi-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+<img src="https://img.shields.io/badge/LinkedIn-Rayen%20Abidi-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
-
-<a href="https://github.com/rayen-abidi05">
-<img src="https://img.shields.io/badge/GitHub-Rayen%20Abidi-181717?style=flat-square&logo=github" alt="GitHub Badge">
-</a>
-
 <a href="https://main-portfolio-blue-alpha.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=flat-square&logo=vercel" alt="Portfolio Badge">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=flat-square&logo=vercel" alt="Portfolio">
 </a>
 </p>
 
+---
 
-<h2>⚡ About Me</h2>
+<h2>👨‍💻 About Me</h2>
 
 <ul>
-<li>🎓 Currently studying <strong>Software Engineering & Computer Science</strong>.</li>
-<li>💻 Full-Stack Developer focused on building modern web applications.</li>
-<li>⚛️ Frontend development with <strong>Next.js, React, TypeScript and Tailwind CSS</strong>.</li>
-<li>⚙️ Backend development with <strong>Node.js and Express.js</strong>.</li>
-<li>🗄️ Experienced with <strong>PostgreSQL, MySQL and Prisma ORM</strong>.</li>
-<li>🔐 Building secure applications using <strong>JWT, HTTP-only cookies, authentication and role-based authorization</strong>.</li>
+<li>🎓 3rd-year <strong>Software Engineering & Computer Science</strong> student at ISTIC — University of Carthage.</li>
+<li>💻 Full-Stack Developer focused on building <strong>real-world web applications</strong>.</li>
+<li>⚛️ Building frontend applications with <strong>Next.js, React, TypeScript and Tailwind CSS</strong>.</li>
+<li>⚙️ Developing backend systems and <strong>REST APIs</strong> with Node.js and Express.js.</li>
+<li>🗄️ Working with <strong>PostgreSQL, MySQL and Prisma ORM</strong>.</li>
+<li>🔐 Implementing authentication, authorization, JWT, HTTP-only cookies and role-based access control.</li>
 <li>🐳 Using <strong>Docker</strong> for containerization and reproducible development environments.</li>
-<li>📡 Building and consuming <strong>REST APIs</strong> with modern frontend data-management tools.</li>
-<li>🚀 Interested in software architecture, scalable systems and backend engineering.</li>
-<li>🎯 Currently looking for a <strong>PFE internship</strong> and future <strong>alternance</strong>.</li>
+<li>📊 Interested in <strong>software architecture, backend engineering, APIs and scalable systems</strong>.</li>
+<li>🎯 Currently looking for a <strong>PFE internship</strong> in software / web development.</li>
+<li>🇫🇷 Preparing for future <strong>Master's and alternance opportunities in France</strong>.</li>
 </ul>
 
 ---
@@ -45,10 +41,10 @@
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
 <h3>Frontend</h3>
@@ -66,8 +62,8 @@
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
-
 <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
 </p>
 
 <h3>Database & ORM</h3>
@@ -89,34 +85,110 @@
 
 ---
 
-<h2>🚀 Projects</h2>
+<h2>🚀 Featured Projects</h2>
 
 <p>
-I've built several full-stack applications around real-world problems — from complex administrative workflows to personal content management.
+A selection of projects I've built to explore full-stack development,
+software architecture, authentication, APIs, databases and deployment.
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>🌿 Olex-TN</h3>
+
+<p>
+Multi-role platform for managing olive-oil export procedures,
+document workflows, validation processes and administrative operations.
 </p>
 
 <p>
-Some of them started as academic projects. Others became opportunities to explore production-oriented architecture, authentication, role-based systems, APIs, databases and deployment.
+<strong>Next.js · React · Node.js · Express · PostgreSQL · Prisma · Docker</strong>
+</p>
+
+<a href="https://main-portfolio-blue-alpha.vercel.app/olex-tn">
+→ View Case Study
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🍴 Foody</h3>
+
+<p>
+Full-stack recipe and nutrition platform with authentication,
+personal recipe management and an administration system.
 </p>
 
 <p>
+<strong>Next.js · Express · MySQL · JWT · Tailwind CSS</strong>
+</p>
+
+<a href="https://foody-omega-flax.vercel.app/">
+→ Live Demo
+</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🔐 Secure File Sharing</h3>
+
+<p>
+Secure file-sharing platform with authentication,
+permissions, file management, notifications and activity tracking.
+</p>
+
+<p>
+<strong>Next.js · Express · PostgreSQL · Prisma · Docker</strong>
+</p>
+
+<a href="https://github.com/rayen-abidi05/sharing">
+→ View Repository
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>💻 Developer Portfolio</h3>
+
+<p>
+Personal portfolio showcasing my projects, technical experience
+and full-stack development work.
+</p>
+
+<p>
+<strong>React · TypeScript · Tailwind CSS · TanStack Router · Motion</strong>
+</p>
+
 <a href="https://main-portfolio-blue-alpha.vercel.app/">
-<strong>→ See what I've been building</strong>
+→ Visit Portfolio
+</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://main-portfolio-blue-alpha.vercel.app/">
+<strong>→ Explore all my work</strong>
 </a>
 </p>
 
-
-
 ---
 
-<h2>📈 What I'm Currently Working On</h2>
+<h2>📌 What I'm Currently Working On</h2>
 
 <ul>
 <li>🚀 Improving my full-stack development and software architecture skills.</li>
-<li>🔐 Building more secure and scalable backend systems.</li>
-<li>🐳 Deepening my knowledge of Docker and deployment.</li>
-<li>🇫🇷 Preparing for opportunities in France.</li>
-<li>💼 Looking for a <strong>PFE internship</strong> and future <strong>alternance</strong>.</li>
+<li>🔐 Designing more secure and maintainable backend systems.</li>
+<li>🐳 Deepening my knowledge of Docker, deployment and production environments.</li>
+<li>☁️ Exploring modern deployment and cloud workflows.</li>
+<li>🇫🇷 Preparing for Master's and future alternance opportunities in France.</li>
+<li>💼 Looking for a <strong>PFE internship</strong> in software / web development.</li>
 </ul>
 
 ---
@@ -124,15 +196,21 @@ Some of them started as academic projects. Others became opportunities to explor
 <h2>📫 Let's Connect</h2>
 
 <p>
-I'm open to discussing software engineering, full-stack development, interesting projects, internships, alternance opportunities and freelance work.
+I'm open to opportunities and conversations around
+<strong>software engineering, full-stack development, internships,
+alternance and freelance projects</strong>.
 </p>
 
 <p>
+<a href="mailto:abidirayen7805@gmail.com">
+<strong>Email</strong>
+</a>
+&nbsp; • &nbsp;
 <a href="https://www.linkedin.com/in/rayen-abidi-9610913bb">
 <strong>LinkedIn</strong>
 </a>
 &nbsp; • &nbsp;
-<a href="https://main-portfolio-kb07mbqb8-rayen-abidi05s-projects.vercel.app/">
+<a href="https://main-portfolio-blue-alpha.vercel.app/">
 <strong>Portfolio</strong>
 </a>
 </p>
