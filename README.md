@@ -95,7 +95,6 @@ software architecture, authentication, APIs, databases and deployment.
 <table>
 <tr>
 
-
 <td width="50%">
 
 <h3>🍴 Foody</h3>
@@ -112,10 +111,13 @@ personal recipe management and an administration system.
 <a href="https://foody-omega-flax.vercel.app/">
 → Live Demo
 </a>
+
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 <h3>🔐 Secure File Sharing</h3>
@@ -151,7 +153,9 @@ and full-stack development work.
 <a href="https://main-portfolio-blue-alpha.vercel.app/">
 → Visit Portfolio
 </a>
+
 </td>
+
 </tr>
 </table>
 
