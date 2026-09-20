@@ -94,24 +94,7 @@ software architecture, authentication, APIs, databases and deployment.
 
 <table>
 <tr>
-<td width="50%">
 
-<h3>🌿 Olex-TN</h3>
-
-<p>
-Multi-role platform for managing olive-oil export procedures,
-document workflows, validation processes and administrative operations.
-</p>
-
-<p>
-<strong>Next.js · React · Node.js · Express · PostgreSQL · Prisma · Docker</strong>
-</p>
-
-<a href="https://main-portfolio-blue-alpha.vercel.app/olex-tn">
-→ View Case Study
-</a>
-
-</td>
 
 <td width="50%">
 
